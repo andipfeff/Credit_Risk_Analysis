@@ -2,9 +2,7 @@
 
 ## Overview of the analysis
 
-Explain the purpose of this analysis.
-
-The purpose of this analysis is to use machine learning to predict credit risk. Using LendingClub's credit card dataset, six different machine learning models were trained and evaluated to figure out which model, if any, would be the best predictor of risk.
+Using LendingClub's credit card dataset, six different machine learning models were trained and evaluated to figure out which model, if any, would be the best predictor of credit card risk. The models were built by resampling the dataset using the impalanced-learn and scikit-learn Python libraries in Jupyter Notebooks.
 
 ## Results
 
