@@ -6,7 +6,6 @@ Using LendingClub's credit card dataset, six different machine learning models w
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 1. **Random Oversampling**
    - Balanced Accuracy Score: 65.7%
