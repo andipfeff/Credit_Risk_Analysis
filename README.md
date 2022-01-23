@@ -46,6 +46,4 @@ Using LendingClub's credit card dataset, six different machine learning models w
 
 ##  Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-
-Of all the machine learning models Easy Ensemble Classifier came in highest for all three scores; Balanced Accuracy Score of 93.2%, High Risk Precision Score of .09, and a high risk Recall score of .92.  Even though this model beats out the others I do not beleive it would be a good predictor of credit risk due to how low the High Risk Precision Score is.
+Of all the machine learning models Easy Ensemble Classifier came in highest for all three scores: Balanced Accuracy Score of 93.2%, High Risk Precision Score of .09, and a high risk Recall score of .92. Even though this model beats out the others I do not believe it would be a good predictor of credit risk due to how low the High Risk Precision Score is.
